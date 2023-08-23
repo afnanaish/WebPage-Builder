@@ -1,2 +1,3 @@
-# WebPage-Builder
-Create your own html , Css page without any code experience. (ps : project not completed yet)
+# GP-2023
+
+# Install Xampp server to run this project
